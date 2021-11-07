@@ -1,6 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Madushan Ranasinghe!
+---
 
 University Undergraduate Who loves to learn new Technologies.
+
+<br />`
 
 
 
@@ -14,13 +17,14 @@ University Undergraduate Who loves to learn new Technologies.
 
 
 
+<br />`
 
 
 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madushan98&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madushan98&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madushan98&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
