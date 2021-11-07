@@ -4,7 +4,9 @@ University Undergraduate Who loves to learn new Technologies.
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+
 <!--
 **Madushan98/Madushan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
