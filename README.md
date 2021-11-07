@@ -5,9 +5,9 @@ University Undergraduate Who loves to learn new Technologies.
 🧰 Toolbox
 
 
-<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg" alt="CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
+
+
 <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-original.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/nestjs/nestjs-plain.svg" alt="CSS Logo" width="50" height="50"/>
 
