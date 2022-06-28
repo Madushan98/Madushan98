@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Madushan Ranasinghe!
+### Hi there, I am Madushan Ranasinghe!
 ---
 
 University Undergraduate Who loves to learn new Technologies.
