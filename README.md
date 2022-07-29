@@ -7,10 +7,8 @@ University Undergraduate Who loves to learn new Technologies.
 - 💼 any freelance work? do reach, [email](mailto:ranasinghemadushan@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
-#### 🧰 Toolbox
+#### 🧰 Languages And Toolbox
 
-
-**languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
