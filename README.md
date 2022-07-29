@@ -1,11 +1,10 @@
-### Hi there, I am Madushan Ranasinghe!
+## Hi there, I am Madushan Ranasinghe!
 ---
 
 University Undergraduate Who loves to learn new Technologies.
-
 <br />`
 
-- 💼 any freelance work? do reach, [email](mailto:ranasinghemadushan@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:ranasinghemadushan@gmail.com)
 - 💬 ask me about anything, i am happy to help;
 
 #### 🧰 Toolbox
