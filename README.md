@@ -33,7 +33,7 @@ University Undergraduate Who loves to learn new Technologies.
 
 
 
-## &#x1f4c8; My GitHub Stats
+#### &#x1f4c8; My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=madushan98&show_icons=true&theme=gotham" alt="Madushan" />
 
