@@ -1,7 +1,7 @@
 ## Hi there, I am Madushan Ranasinghe!
 
 
-University Undergraduate Who loves to learn new Technologies.
+University Undergraduate Who loves to learn new Technologies, Focused and highly motivated Software Engineer with close to 1 year of industrial experience in Full stack software development. I'm capable of learning and adapting to new technologies quickly. Also, a good team player.
 <br />`
 
 - 💼 any freelance work? do reach, [email](mailto:ranasinghemadushan@gmail.com)
