@@ -1,10 +1,9 @@
 ## Hi there, I am Madushan Ranasinghe!
 
 
-"Hello there! I'm a focused and highly motivated software engineer with close to 1 year of industrial experience in software development. I have experience working with Java, Python, and JavaScript, as well as tools such as Git, MySQL, and JIRA. During my time in the industry, I contributed to several projects, including a software application that manages sales and invoicing for service providers, and a comprehensive toolkit for service teams that includes real-time progress reporting, inventory management, and HR functionalities.
+Hello there! I'm a focused and highly motivated software engineer with close to 1 year of industrial experience in software development. I have experience working with Java, Python, and JavaScript, as well as tools such as Git, MySQL, and JIRA. During my time in the industry, I contributed to several projects, including a software application that manages sales and invoicing for service providers, and a comprehensive toolkit for service teams that includes real-time progress reporting, inventory management, and HR functionalities.
 
-I take pride in my ability to learn and adapt quickly to new technologies and am particularly interested in exploring cloud computing and machine learning. Some areas within these fields that I find particularly compelling include natural language processing and distributed systems. As a team player, I have collaborated effectively with other developers to deliver successful projects. Let's connect and build something amazing together!"
-
+I take pride in my ability to learn and adapt quickly to new technologies and am particularly interested in exploring cloud computing and machine learning. Some areas within these fields that I find particularly compelling include natural language processing and distributed systems. As a team player, I have collaborated effectively with other developers to deliver successful projects. Let's connect and build something amazing together!
 <br />`
 
 - 💼 any freelance work? do reach, [email](mailto:ranasinghemadushan@gmail.com)
