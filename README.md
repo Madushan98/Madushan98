@@ -1,9 +1,7 @@
 ## Hi there, I am Madushan Ranasinghe!
 
 
-Hello there! I'm a focused and highly motivated software engineer with close to 1 year of industrial experience in software development. I have experience working with Java, Python, and JavaScript, as well as tools such as Git, MySQL, and JIRA. During my time in the industry, I contributed to several projects, including a software application that manages sales and invoicing for service providers, and a comprehensive toolkit for service teams that includes real-time progress reporting, inventory management, and HR functionalities.
-
-I take pride in my ability to learn and adapt quickly to new technologies and am particularly interested in exploring cloud computing and machine learning. Some areas within these fields that I find particularly compelling include natural language processing and distributed systems. As a team player, I have collaborated effectively with other developers to deliver successful projects. Let's connect and build something amazing together!
+Hi there! I'm a passionate software engineer with almost a year of experience in the industry. I have a solid understanding of Java, Python, and JavaScript, as well as Git, MySQL, and JIRA. I've contributed to a variety of exciting projects, including software for sales and invoicing management and comprehensive toolkits for service teams.
 <br />`
 
 - 💼 any freelance work? do reach, [email](mailto:ranasinghemadushan@gmail.com)
@@ -27,8 +25,6 @@ I take pride in my ability to learn and adapt quickly to new technologies and am
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
 
 <br />`
 
