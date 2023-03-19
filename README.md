@@ -3,10 +3,8 @@
 
 Hi there! I'm a passionate software engineer with almost a year of experience in the industry. I have a solid understanding of Java, Python, and JavaScript, as well as Git, MySQL, and JIRA. I've contributed to a variety of exciting projects, including software for sales and invoicing management and comprehensive toolkits for service teams.
 <br />`
-
 [![Linkedin: Madushan](https://img.shields.io/badge/-madushan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madushan-ranasinghe/)](https://www.linkedin.com/in/madushan-ranasinghe/)
 [![GitHub Maduhshan](https://img.shields.io/github/followers/Madushan98?label=follow&style=social)](https://github.com/Madushan98)
-
 
 #### 🧰 Languages And Toolbox
 
